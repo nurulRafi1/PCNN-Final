@@ -7,12 +7,12 @@ This file is MODIS Terra satellite .hdf file which contains lots of metadata. Th
 
 ### Module 2: Basic PCNN
 MODIS single band is used for implementation of basic PCNN.
-##### Visualization and Oscillation
+#### Visualization and Oscillation
 Using single band of MODIS visualization and oscillation of pulses are shown here.
 
 ### Module 3: Image Fusion Application with Improved PCNN
 MODIS 34 bands are used for image fusion with improved PCNN. 
-##### Improved PCNN
-##### Image Fusion
+#### Improved PCNN
+#### Image Fusion
 
 
