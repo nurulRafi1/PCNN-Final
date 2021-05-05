@@ -13,6 +13,8 @@ Using single band of MODIS visualization and oscillation of pulses are shown her
 ### Module 3: Image Fusion Application with Improved PCNN
 MODIS 34 bands are used for image fusion with improved PCNN. 
 #### Improved PCNN
+Here some modifications are applied from traditional PCNN. Simplified and improved version is implemented here.
 #### Image Fusion
+MODIS 34 bands are used for band fusion.
 
 
