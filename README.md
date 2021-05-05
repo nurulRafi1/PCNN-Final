@@ -5,9 +5,14 @@ This project can be divided in several parts. Short descriptions are given below
 Primarily the data folder containing a .hdf file which is downloaded from NASA LAADS DAAC.
 This file is MODIS Terra satellite .hdf file which contains lots of metadata. The used hdf file should be downloaded from the NASA website as this file is huge in size.
 
-### Basic PCNN
-This data is used by PCNN for visualization and oscillation of the model.
+### Module 2: Basic PCNN
+MODIS single band is used for implementation of basic PCNN.
+##### Visualization and Oscillation
+Using single band of MODIS visualization and oscillation of pulses are shown here.
 
-### Image Fusion with Improved PCNN
-This data is used by PCNN for visualization and oscillation of the model.
+### Module 3: Image Fusion Application with Improved PCNN
+MODIS 34 bands are used for image fusion with improved PCNN. 
+##### Improved PCNN
+##### Image Fusion
+
 
