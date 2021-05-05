@@ -20,4 +20,5 @@ MODIS 34 bands are used for band fusion.
 
 #### References
 1. Miao, Q., & Wang, B. (2005, May). A novel adaptive multi-focus image fusion algorithm based on PCNN and sharpness. In Sensors, and Command, Control, Communications, and Intelligence (C3I) Technologies for Homeland Security and Homeland Defense IV (Vol. 5778, pp. 704-712). International Society for Optics and Photonics.
-2. Image processing using pulse-coupled neural networks Book by Thomas Lindblad
+2. Image processing using pulse-coupled neural networks Book by Thomas Lindblad.
+3. Li, X., Yan, H., Xie, W., Kang, L., & Tian, Y. (2020). An Improved Pulse-Coupled Neural Network Model for Pansharpening. Sensors, 20(10), 2764.
