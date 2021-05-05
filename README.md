@@ -7,4 +7,14 @@ This file is MODIS Terra satellite .hdf file which contains lots of metadata. Th
 ## PCNN
 This data is used by PCNN for visualization and oscillation of the model.
 
-## All the necessary and detailed documentation is added with the notebook.
+
+## Implementation and Visualization of Basic PCNN
+This data is used by PCNN for visualization and oscillation of the model.
+
+
+## Image Fusion of 34 MODIS bands with Improved PCNN
+This data is used by PCNN for visualization and oscillation of the model.
+
+
+
+#### All the necessary and detailed documentation is added with the notebook.
